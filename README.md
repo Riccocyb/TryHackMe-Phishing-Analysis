@@ -26,7 +26,7 @@ To document the malicious domain safely within this report without risking accid
 * **Original Domain Found:** `devret.xyz`
 * **Tool Used:** CyberChef
 * **Operation Applied:** `Defang URL`
-* **Secure Output (IoC):** `devret[.]xyz`
+* **Secure Output (IoC):** `[REDACTED]`
 
 By replacing the standard periods with brackets, the link becomes non-clickable, ensuring the safety of analysts and infrastructure reviewing this documentation.
 
@@ -36,7 +36,7 @@ By replacing the standard periods with brackets, the link becomes non-clickable,
 ---
 
 ## 🚨 Indicators of Compromise (IoCs)
-* **Attacker Root Domain:** `devret[.]xyz`
+* **Attacker Root Domain:** `[REDACTED]`
 
 ## 🧠 Key Takeaways
 Through this lab, I practically demonstrated how to:
