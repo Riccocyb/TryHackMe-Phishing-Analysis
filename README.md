@@ -30,7 +30,8 @@ To document the malicious domain safely within this report without risking accid
 
 By replacing the standard periods with brackets, the link becomes non-clickable, ensuring the safety of analysts and infrastructure reviewing this documentation.
 
-<img width="1862" height="921" alt="cyberchef" src="https://github.com/user-attachments/assets/e1c48e6d-d0ef-4618-8d19-4902acbc5563" />
+<img width="1862" height="921" alt="cyberchef" src="https://github.com/user-attachments/assets/118680a0-5ab7-4325-803a-9e901dd949b8" />
+
 
 
 ---
